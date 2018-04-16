@@ -1,0 +1,51 @@
+header {
+	text-align: center;
+	font-size: 2rem;
+	padding-bottom: 15px;
+	color: white;
+}
+
+form {
+
+	text-align: center;
+	color: white;
+}
+
+#submit {
+	font-size: 1.3rem;
+	background-color: #34e4ea;
+	border-radius: 10px;
+	color: white;
+	cursor: pointer;
+	transition: 0.5s;
+	display: inline-block;
+}
+
+#submit:hover{
+	transform: scale(1.4);
+	transition: .5s
+}
+
+
+#calculation {
+	padding-top: 25%;
+}
+
+input {
+	font-size: 1.3rem;
+	margin: 5px;
+	border-radius: 5px;
+}
+
+body {
+	background-color: #8ab9b5;
+	max-width: 75%;
+	height: 100vh;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+
+html {
+	background-color: #2b4141;
+}
